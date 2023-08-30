@@ -1,3 +1,0 @@
-/n1,xyz,abc,c++
-/n1,xyz,pqr,675
-/n0,xyz,pqr,675
